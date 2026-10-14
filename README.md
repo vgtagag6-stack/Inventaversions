@@ -1,7 +1,30 @@
 # Inventa Tweaks
 
-A desktop toolkit for tuning Windows. Backup, optimizations, cleanup, and game
-tweaks in a single app.
+A desktop app for tuning Windows, built with Tauri.
+
+**This project is in progress and under active development.** The app shell,
+sign-in, and updater work. The tuning sections shown in the app are placeholder
+screens and are not implemented yet.
+
+## Status
+
+Implemented:
+
+- Sign-in with Discord or Google.
+- Signed-in dashboard with a profile menu.
+- Theme selection.
+- Update check that points to the newest GitHub release.
+- Standard window controls.
+
+Not implemented yet. These appear in the app as empty placeholder screens:
+
+- System Backup
+- Optimizations
+- System Cleanup
+- Game Tweaks
+- Focus Mode
+- Game Mode
+- Additional settings
 
 ## Download
 
@@ -14,20 +37,6 @@ https://github.com/vgtagag6-stack/Inventaversions/releases/latest
 | `Inventa Tweaks-Setup.exe` | Windows installer (recommended) |
 | `Inventa Tweaks_0.0.3_x64_en-US.msi` | Windows MSI package |
 | `inventa-tweaks.exe` | Portable executable |
-
-The app checks for updates when it launches and points to the newest release
-when one is available.
-
-## Features
-
-- **System Backup** - create restore points before applying tweaks.
-- **Optimizations** - latency, CPU, and RAM tuning options.
-- **System Cleanup** - clear temporary files, DNS cache, and logs.
-- **Game Tweaks** - tuning profiles for competitive titles.
-- **Additional Settings** - telemetry blockers and visual tweaks.
-- **Focus Mode** - strip distractions and keep only what matters.
-- **Custom themes** - background and color selection.
-- **Auto-update** - in-app update prompt driven by GitHub releases.
 
 ## Screenshot
 
