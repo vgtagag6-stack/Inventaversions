@@ -34,8 +34,8 @@ https://github.com/vgtagag6-stack/Inventaversions/releases/latest
 
 | File | Description |
 | --- | --- |
-| `Inventa Tweaks-Setup.exe` | Windows installer (recommended) |
-| `Inventa Tweaks_0.0.3_x64_en-US.msi` | Windows MSI package |
+| `Inventa.Tweaks-Setup.exe` | Windows installer (recommended) |
+| `Inventa.Tweaks_0.0.4_x64_en-US.msi` | Windows MSI package |
 | `inventa-tweaks.exe` | Portable executable |
 
 ## Screenshot
